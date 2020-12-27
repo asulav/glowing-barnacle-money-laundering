@@ -1,4 +1,6 @@
-# glowing-barnacle-money-laundering
-Using Graph Databases and Graph Theory to Detect Money Laundering
+# Graph Theory & Neo4j
+Using Graph Databases and Graph Theory
 
-## This class is created to please Tory Clasen
+
+# What are graph databases?
+Unlike traditional sql databases that uses table i.e. rows and columns a graph database uses nodes and edges.
